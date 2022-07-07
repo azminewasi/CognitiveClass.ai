@@ -1,0 +1,21 @@
+------------------------------------------
+--DDL statement for table 'GOSALES_ORDER_DETAILS'--
+--------------------------------------------
+
+-- Drop the tables in case exist
+
+DROP TABLE GOSALES_ORDER_DETAILS;
+
+-- Create the tables
+
+CREATE TABLE GOSALES_ORDER_DETAILS (
+			ORDER_DETAIL_CODE INTEGER NOT NULL,
+			ORDER_NUMBER INTEGER NOT NULL,
+			SHIP_DATE DATE NOT NULL,
+			PRODUCT_NUMBER INTEGER NOT NULL,
+			PROMOTION_CODE INTEGER NOT NULL,
+			QUANTITY BIGINT NOT NULL,
+			UNIT_COST DECIMAL (19,2),
+			UNIT_PRICE DECIMAL (19,2),
+			UNIT_SALE_PRICE DECIMAL (19,2)
+			);

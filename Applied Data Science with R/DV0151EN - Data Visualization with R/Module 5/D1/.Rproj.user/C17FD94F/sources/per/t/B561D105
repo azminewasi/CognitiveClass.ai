@@ -1,0 +1,28 @@
+{
+    "id": "B561D105",
+    "path": "D:/Data/Programming/Harvard-Data-Science-Courses/HarvardX PH125.2x - Data Science Visualization/S1 - Intro to DV & Distributions/1.2 Intro to Distributions/3 The Normal CDF and pnorm/The Normal CDF and pnorm.rmd",
+    "project_path": null,
+    "type": "r_markdown",
+    "hash": "2683636831",
+    "contents": "",
+    "dirty": false,
+    "created": 1622307423643.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "44,57",
+        "scrollLine": "25"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1622307608,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1622307608380,
+    "read_only": false,
+    "read_only_alternatives": []
+}
